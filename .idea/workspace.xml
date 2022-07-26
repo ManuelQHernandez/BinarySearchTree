@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2479753c-aa56-4ff8-b19d-4ce38498ef4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CRUD-POO-GAMES/CRUD-POO-GAMES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/Ejercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LordOfTheRing/LordOfTheRing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Menu1/Menu1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO-TTT/POO-TTT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOTicTacToe/POOTicTacToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchTree/SearchTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchTree/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchTree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchTree/src/NodoArbolBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTac-POO/TicTac-POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise1/exercise1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CUOF7ba31hzTWAdopggbY6Vc1a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2479753c-aa56-4ff8-b19d-4ce38498ef4a" name="Changes" comment="" />
+      <created>1658853590167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658853590167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
