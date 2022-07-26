@@ -10,6 +10,22 @@ public class TreeNode {
 
     public void insert(int value) {
 
+        if (value < data){
+
+            if (leftNode == null)
+                leftNode = new TreeNode(value);
+            else
+                leftNode.insert(value);
+        }
+
+        else if(value > data){
+
+            if (rightNode == null)
+                rightNode = new TreeNode(value);
+            else
+                rightNode.insert(value);
+        }
+
     }
 
     public int getData() {

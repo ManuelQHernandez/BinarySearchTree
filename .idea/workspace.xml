@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2479753c-aa56-4ff8-b19d-4ce38498ef4a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,25 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TreeTest">
+    <configuration name="TreeNodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinarySearchTree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeNodeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinarySearchTree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TreeTest.testInsertNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BinarySearchTree" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,6 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TreeTest" />
+        <item itemvalue="JUnit.TreeNodeTest" />
         <item itemvalue="JUnit.TreeTest.testInsertNode" />
       </list>
     </recent_temporary>
