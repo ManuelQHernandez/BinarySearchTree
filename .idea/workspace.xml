@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2479753c-aa56-4ff8-b19d-4ce38498ef4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CRUD-POO-GAMES/CRUD-POO-GAMES.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/Ejercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LordOfTheRing/LordOfTheRing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Menu1/Menu1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO-TTT/POO-TTT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POOTicTacToe/POOTicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchTree/SearchTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchTree/src/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchTree/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchTree/src/NodoArbolBinario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTac-POO/TicTac-POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise1/exercise1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ana.hernandez09\IdeaProjects\BinarySearchTree\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,5 +64,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>
