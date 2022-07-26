@@ -7,6 +7,9 @@ public class Tree {
         root = null;
     }
 
+    public TreeNode getRoot() {
+        return root;
+    }
 
     public void insertNode(int value) {
         if (root == null) {
